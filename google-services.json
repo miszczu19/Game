@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94480052052",
+    "firebase_url": "https://smart-ball-aed06.firebaseio.com",
+    "project_id": "smart-ball-aed06",
+    "storage_bucket": "smart-ball-aed06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94480052052:android:cbd7046b8138dc1ed922c1",
+        "android_client_info": {
+          "package_name": "maciek.smartball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94480052052-hnfgejp4ogiu3s6rbce1h3cmr8fnf5dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXjlcJCatejWVMlOU_f_y-POPk1N8Kdg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94480052052-hnfgejp4ogiu3s6rbce1h3cmr8fnf5dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
